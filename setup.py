@@ -119,7 +119,7 @@ if __name__ == "__main__":
         version=get_and_write_version(),
         author="PyTorch Team",
         author_email="packages@pytorch.org",
-        url="https://github.com/pytorch-labs/torchvision-extra-decoders/",
+        url="https://github.com/meta-pytorch/torchvision-extra-decoders/",
         description="An extension of torchvision for decoding AVIF and HEIC images.",
         long_description=readme,
         long_description_content_type="text/markdown",
